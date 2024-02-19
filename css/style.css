@@ -35,6 +35,7 @@ p{
     margin: 0;
 } */
 
+/* Text highlights */
 .blue-highlight{
     color: #2daee6;
 }
@@ -42,4 +43,26 @@ p{
 .marked {
     font-style: normal;
     background-color: yellow;
-  }
+}
+
+
+td{
+    width: 100px;
+}
+
+.main-table{
+    width: 100%;
+    text-align: left;
+    border-collapse: collapse; 
+    
+}
+
+.main-table-head{
+    background-color: #20a9e5;
+    color: white;
+    
+}
+
+.marked-row{
+    background-color: #b1e5f2;
+}
