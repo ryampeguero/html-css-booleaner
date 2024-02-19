@@ -1,0 +1,17 @@
+/* HEADER */
+.header-banner{
+    /* text-align: left; */
+
+    background-color: #4ea0ff;
+    background-image: url(../img/pattern.png);
+    background-size: auto;
+    height: 175px;
+
+}
+
+
+#logo{
+    padding-top: 100px;
+    width: 256px;
+    /* height: 10%; */
+}
