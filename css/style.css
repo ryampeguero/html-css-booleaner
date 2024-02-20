@@ -46,11 +46,11 @@ p{
 
 }
 
-#item1{
+.item1{
     background-image: url(../img/monitor.jpg);  
 }
 
-#item2{
+.item2{
     background-image: url(../img/graph.jpg);
 }
 
