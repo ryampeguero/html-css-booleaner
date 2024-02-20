@@ -25,7 +25,7 @@ p{
     margin: 0;
 }
 
-.author{
+.author, .footer-title{
     color: #808080;
     margin-bottom: 15px;
 }
